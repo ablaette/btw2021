@@ -26,3 +26,28 @@ NULL
 #' @docType data
 #' @keywords datasets
 "afd2021"
+
+#' CDU/CSU 2021 Election Manifesto
+#' @docType data
+#' @keywords datasets
+"cdu_csu2021"
+
+#' FDP 2021 Election Manifesto
+#' @docType data
+#' @keywords datasets
+"fdp2021"
+
+#' Bündnis 90/Die Grünen 2021 Election Manifesto
+#' @docType data
+#' @keywords datasets
+"gruene2021"
+
+#' Die LINKE 2021 Election Manifesto
+#' @docType data
+#' @keywords datasets
+"linke2021"
+
+#' SPD 2021 Election Manifesto
+#' @docType data
+#' @keywords datasets
+"spd2021"
